@@ -1,5 +1,5 @@
 <?php
 
-include_once("Endpoints.cs")
+include_once("Endpoints.cs");
 
 ?>
